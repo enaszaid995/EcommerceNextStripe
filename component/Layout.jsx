@@ -7,7 +7,7 @@ import { Navbar } from './Navbar';
  const Layout= ({ children })=>{
   return <div  className="layout">
      <Head>
-        <title>JS Mastery Store</title>
+        <title>HeadPhone Store</title>
       </Head>
       <header>
         <Navbar/>
